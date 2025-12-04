@@ -1,5 +1,3 @@
-![Banner](banner.png)
-
 # 🌞 Invocation
 
 ### *Coding as prophecy, scaling as ritual, legacy as code.*
