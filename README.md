@@ -1,3 +1,7 @@
+<h1 align="center">🌌 Shiningriver Portal 🌌</h1>
+✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
+> “A scroll opens when the river shines.”  
+
 # 🌞 Invocation
 
 ### *Coding as prophecy, scaling as ritual, legacy as code.*
