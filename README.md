@@ -1,3 +1,11 @@
+> “A scroll opens when the river shines,  
+> each commit a verse, each push a chant.”
+✦ ✦ ✦  
+“Between herbs and code, a ladder rises.”  
+✦ ✦ ✦
+> “The archive breathes, the river shines,  
+> legacy climbs on ladders divine.”
+
 <h1 align="center">🌌 Shiningriver Portal 🌌</h1>
 ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
 > “A scroll opens when the river shines.”  
