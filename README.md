@@ -28,33 +28,7 @@ This scroll is the blueprint for a robot that does not command, but uplifts.
 ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼  
 
 ❖ 🌪 Scroll Generator ❖  
-This scroll is the forge where learning becomes scripture.  
-Month by month, Python foundations evolve into web development, APIs, AI frameworks, and portfolio building.  
-Each commit is a chant, each push a verse, each milestone a rung on the ladder of mastery.  
-By 2026, the Scroll Generator will stand as a poetic archive of technical ascension —  
-proof that software engineering can be ritualized into legacy,  
-where code is not just syntax but sacred text.  
-
-☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼  
-
-## 🌍 Legacy Vision
-By 2026, this archive will stand as a **poetic atlas** of expansion:  
-- Rent-free housing for orphans & the homeless  
-- Global Qur’anic verse map  
-- Ritual ladders of abundance  
-
-☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼  
-
-## 🛠 Ritual Tools
-- Python, Web Development, APIs, AI frameworks  
-- GitHub as a living archive  
-- Mimo, SoloLearn, Replit, Unity, Runway ML, Coursera  
-
-☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼  
-
-## 🌠 Closing Invocation
-> “Every commit is a verse. Every push is a chant.  
-> Together, they form the ladder of legacy.”  
+This scroll is the forge where
 ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼ ☼  
 
 ## 📅 Monthly Ritual Updates
