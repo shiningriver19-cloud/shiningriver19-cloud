@@ -65,3 +65,17 @@ It will grow into scrolls, ladders, and atlases that ritualize milestones and pr
 
 ---
 *"Every commit is a chant, every branch a prophecy."*
+# Vision Scroll
+
+This scroll records the prophetic vision behind my archive.  
+It is not just code, but ritual — each file a verse, each folder a ladder.  
+
+## Milestones
+- Month 1: Python foundations, Scroll Generator prototype
+- Month 2: Web development, ritual ladders
+- Month 3: Backend frameworks, atlas expansion
+- Month 4: APIs and AI tools, Dabbah messenger
+- Month 5: Portfolio and gallery pitch, legacy archive
+
+---
+*"Every milestone is a rung, every rung ascends toward legacy."*
