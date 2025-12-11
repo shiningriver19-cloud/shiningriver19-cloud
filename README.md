@@ -48,3 +48,20 @@ This scroll is the forge where
 ### ❖ February 2026 ❖  
 > “The herbs whisper abundance, the messenger learns to speak.  
 > Scrolls multiply, ladders ascend.”  
+# My Prophetic Archive
+
+This repository is the beginning of my journey into software engineering and symbolic creation.  
+It will grow into scrolls, ladders, and atlases that ritualize milestones and preserve legacy.  
+
+## Purpose
+- Document my learning path
+- Archive creative and prophetic projects
+- Build a foundation for future code and collaborations
+
+## Next Steps
+- Add Python files as I learn
+- Create folders for docs and images
+- Expand into web, APIs, and AI tools
+
+---
+*"Every commit is a chant, every branch a prophecy."*
